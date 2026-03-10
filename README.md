@@ -7,3 +7,7 @@
 Теперь нужно добавить байты которые будут вращаться как атрактор вокруг сферы, и при попадание на сферу активировать звук этого байта а при выходе из сферы менять байт.
 
 [EVP sphere on Babylon.js (Version 1 - BYTE Attrcator) | Babylon.js Playground](https://playground.babylonjs.com/#9BQL75#1)
+
+Отлично! Теперь нужно вместо случайных байтов сделать случайные аудио ЭГФ которые при залетании в сферу будут активировать случайные фрагменты из аудио выбранного.
+
+[EVP sphere on Babylon.js (Version 2 - Endless EVP Multiply Audios Pruning) | Babylon.js Playground](https://playground.babylonjs.com/#TG6ONS)
