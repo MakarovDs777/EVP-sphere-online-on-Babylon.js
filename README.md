@@ -11,3 +11,7 @@
 Отлично! Теперь нужно вместо случайных байтов сделать случайные аудио ЭГФ которые при залетании в сферу будут активировать случайные фрагменты из аудио выбранного.
 
 [EVP sphere on Babylon.js (Version 2 - Endless EVP Multiply Audios Pruning) | Babylon.js Playground](https://playground.babylonjs.com/#TG6ONS)
+
+Сделаем разноцветный телевизор ЭГФ.
+
+[EVP sphere on Babylon.js (Version 3 - Endless EVP rainbow TV) | Babylon.js Playground](https://playground.babylonjs.com/#GBOKAN)
