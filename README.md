@@ -16,6 +16,6 @@
 
 [EVP sphere on Babylon.js (Version 3 - Endless EVP rainbow TV) | Babylon.js Playground](https://playground.babylonjs.com/#GBOKAN)
 
-Теперь сдеаем привязку пикселей к координатам цветного телевизора ЭГФ.
+Теперь сделаем привязку пикселей к координатам цветного телевизора ЭГФ.
 
 [EVP sphere on Babylon.js (Version 4 - Endless EVP rainbow TV with pixel binding) | Babylon.js Playground](https://playground.babylonjs.com/#JB9BAZ)
