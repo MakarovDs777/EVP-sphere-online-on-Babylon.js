@@ -20,6 +20,8 @@
 
 [EVP sphere on Babylon.js (Version 4 - Endless EVP rainbow TV with pixel binding) | Babylon.js Playground](https://playground.babylonjs.com/#JB9BAZ)
 
-А мы сделаем вокруг коробку что-бы не уделати пиксельные шарики.
+А мы сделаем вокруг коробку что-бы не улетали пиксельные шарики.
 
 [EVP sphere on Babylon.js (Version 5 - Endless EVP rainbow TV with pixel binding in box) | Babylon.js Playground](https://playground.babylonjs.com/#Q3Q2XO)
+
+
