@@ -25,3 +25,5 @@
 [EVP sphere on Babylon.js (Version 5 - Endless EVP rainbow TV with pixel binding in box) | Babylon.js Playground](https://playground.babylonjs.com/#Q3Q2XO)
 
 
+
+[EVP sphere on Babylon.js (Version 6 - Endless EVP The sphere of probability) | Babylon.js Playground](https://playground.babylonjs.com/#Z4KPZJ)
