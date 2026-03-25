@@ -27,3 +27,6 @@
 
 
 [EVP sphere on Babylon.js (Version 6 - Endless EVP The sphere of probability) | Babylon.js Playground](https://playground.babylonjs.com/#Z4KPZJ)
+
+
+[EVP sphere on Babylon.js (Version 7 - Endless EVP The sphere of probability from the uploaded file) | Babylon.js Playground](https://playground.babylonjs.com/#Y3ZR4O)
