@@ -24,9 +24,10 @@
 
 [EVP sphere on Babylon.js (Version 5 - Endless EVP rainbow TV with pixel binding in box) | Babylon.js Playground](https://playground.babylonjs.com/#Q3Q2XO)
 
-
+Чем ближе байт к сфере тем больше вероятность его генерации чем дальше тем меньше.
 
 [EVP sphere on Babylon.js (Version 6 - Endless EVP The sphere of probability) | Babylon.js Playground](https://playground.babylonjs.com/#Z4KPZJ)
+
 
 
 [EVP sphere on Babylon.js (Version 7 - Endless EVP The sphere of probability from the uploaded file) | Babylon.js Playground](https://playground.babylonjs.com/#Y3ZR4O)
