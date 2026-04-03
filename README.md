@@ -31,3 +31,7 @@
 Тоже самое что, и предыдущая только из загруженных аудио файлов.
 
 [EVP sphere on Babylon.js (Version 7 - Endless EVP The sphere of probability from the uploaded file) | Babylon.js Playground](https://playground.babylonjs.com/#Y3ZR4O)
+
+Сделаем сферу и шарик рикошетят случайно летают, И попадая на отрезки сферы из символов генерируют их в окне.
+
+[EVP sphere on Babylon.js (Version 8 - Endless EVP The SYMBOLS sphere) | Babylon.js Playground](https://playground.babylonjs.com/#4PCGBZ)
